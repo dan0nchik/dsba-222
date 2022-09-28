@@ -24,7 +24,8 @@ Grades
 
 [Grades](https://docs.google.com/spreadsheets/d/1KoXyABY4alQu-Gw3HsYy3Vco9rfvHdYQZuUjE_ERJB8/edit?usp=sharing)  
 [Lectures](http://wiki.cs.hse.ru/Discrete_Mathematics_DSBA_2022/2023#Course_materials)  
-[Homework](http://wiki.cs.hse.ru/Discrete_Mathematics_DSBA_2022/2023#Homework_problems)
+[Homework](http://wiki.cs.hse.ru/Discrete_Mathematics_DSBA_2022/2023#Homework_problems)  
+[Adaptation Course](http://wiki.cs.hse.ru/Adaptation_course_in_Discrete_Math_(факультатив)#Course_materials)
 
 
 ## Programming [Wiki](http://wiki.cs.hse.ru/Introduction_to_Programming_DSBA_2022/2023)
