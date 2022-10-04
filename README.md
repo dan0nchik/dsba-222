@@ -12,6 +12,7 @@ Repository with all materials in one place
 
 ## English [Wiki](http://wiki.cs.hse.ru/English_DSBA_2022/2023)
 
+[Vocabulary](https://quizlet.com/ru/724575053/all-course-vocabulary-flash-cards/?i=3mlb6i&x=1jqY)  
 [Grades](https://docs.google.com/spreadsheets/d/1xVR9ppUaMrrFFBpD9m9kvEzEwypOwP9BrD4Vb4C2GJg/edit#gid=41479481)  
 Homework in tg
 
