@@ -1,7 +1,6 @@
 # DSBA 222
 MATH EXAMS PREPARATION [FILE](https://docs.google.com/document/d/1IO-hJPhN65jEbhds3ZIwtx7rRtVkDwuZauX5Gz9Od4g/edit?usp=sharing)  
 Repository with all materials in one place  
-AMI all materials in Tex: https://hse-tex.me/#1-курс
 
 ## Calculus [Wiki](http://wiki.cs.hse.ru/Calculus_DSBA_2022/2023)
 
