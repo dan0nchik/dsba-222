@@ -1,5 +1,6 @@
 # DSBA 222
-Repository with all materials in one place
+Repository with all materials in one place  
+AMI all materials in Tex: https://hse-tex.me/#1-курс
 
 ## Calculus [Wiki](http://wiki.cs.hse.ru/Calculus_DSBA_2022/2023)
 
