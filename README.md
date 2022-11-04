@@ -18,7 +18,7 @@ Repository with all materials in one place
 Homework in tg
 
 ## Linear Algebra [Wiki](http://wiki.cs.hse.ru/LAaG_DSBA_2022/2023)
-Grades  
+[Grades](https://docs.google.com/spreadsheets/d/1gSx67C3U62-n6IgoVs6s0JX7SMhD7rrupxEPcL2bKzo/edit)  
 [Lectures](http://wiki.cs.hse.ru/LAaG_DSBA_2022/2023#Lecture_Notes)  
 [Homework](http://wiki.cs.hse.ru/LAaG_DSBA_2022/2023#The_obligatory_homework_for_groups_222_and_223:)  
 [Classroom](https://classroom.google.com/u/0/c/NTI3NjI1NTM2MzE4)
