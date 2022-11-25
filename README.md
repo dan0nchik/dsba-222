@@ -1,5 +1,7 @@
 # DSBA 222
-MATH EXAMS [FILE](https://docs.google.com/document/d/1IO-hJPhN65jEbhds3ZIwtx7rRtVkDwuZauX5Gz9Od4g/edit?usp=sharing)  
+[❄️ WINTER EXAMS TIMETABLE](https://docs.google.com/spreadsheets/d/14Bb3iUqlCzIzt-cLXX-oLrH2rRdyrYDNejcOhdQp30I/edit#gid=653796419)  
+[⏰ TIMETABLE](https://docs.google.com/spreadsheets/d/1-DzUiDC11i98lK6i1v870pKLCRdCYodcHtF_f0h1FQY/edit#gid=0)  
+[Math Exams Materials](https://docs.google.com/document/d/1IO-hJPhN65jEbhds3ZIwtx7rRtVkDwuZauX5Gz9Od4g/edit?usp=sharing)  
 Repository with all materials in one place  
 
 
