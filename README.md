@@ -31,10 +31,10 @@ Repository with all materials in one place
 [Classroom](https://classroom.google.com/u/0/c/NTQ2ODg4MTgxNzA1)
 
 
-## Programming [Wiki](https://edu.hse.ru/course/view.php?id=135428)
+## Programming [Wiki](http://wiki.cs.hse.ru/Introduction_to_Programming_2_DSBA_2022/2023)
 
-[Grades](https://docs.google.com/spreadsheets/d/1JtLJD95RT0m2JPMVoiKUnO4jPnXsAs5m2-iUh6-yKeY/edit#gid=0)  
-[Smart LMS Page](https://edu.hse.ru/course/view.php?id=135428)  
+[Grades](https://docs.google.com/spreadsheets/d/1yH-N8d0cW3WmP7lY5Ibcw3Yq7G2RG9bQuNZtUUpWevw/edit#gid=1831411846)  
+[Lectures + Quizes](https://edu.hse.ru/course/view.php?id=135428)  
 
 
 ## English [Wiki](http://wiki.cs.hse.ru/English_DSBA_2022/2023)
