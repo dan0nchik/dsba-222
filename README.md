@@ -1,9 +1,13 @@
 # DSBA 222
-[❄️ WINTER EXAMS TIMETABLE](https://docs.google.com/spreadsheets/d/14Bb3iUqlCzIzt-cLXX-oLrH2rRdyrYDNejcOhdQp30I/edit#gid=653796419)  
-[⏰ TIMETABLE](https://docs.google.com/spreadsheets/d/1-DzUiDC11i98lK6i1v870pKLCRdCYodcHtF_f0h1FQY/edit#gid=0)  
+[⏰ TIMETABLE](https://docs.google.com/spreadsheets/d/1-DzUiDC11i98lK6i1v870pKLCRdCYodcHtF_f0h1FQY/edit#gid=2083525216)  
 [Math Exams Materials](https://docs.google.com/document/d/1IO-hJPhN65jEbhds3ZIwtx7rRtVkDwuZauX5Gz9Od4g/edit?usp=sharing)  
 Repository with all materials in one place  
 
+## English [Wiki](http://wiki.cs.hse.ru/English_DSBA_2022/2023)
+
+[Vocabulary](https://quizlet.com/ru/724575053/all-course-vocabulary-flash-cards/?i=3mlb6i&x=1jqY)  
+[Grades](https://docs.google.com/spreadsheets/d/1xVR9ppUaMrrFFBpD9m9kvEzEwypOwP9BrD4Vb4C2GJg/edit#gid=41479481)  
+[Homework + Classwork](https://drive.google.com/drive/folders/13Ra8tJ51Ml1sKOYpZRB2qPvbvo2uhjBA?usp=share_link)
 
 ## Calculus [Wiki](http://wiki.cs.hse.ru/Calculus_DSBA_2022/2023)
 
@@ -22,6 +26,11 @@ Repository with all materials in one place
 [Recordings](https://disk.yandex.ru/d/gc-_nasS-wYcJw)
 
 
+## Programming [Wiki](http://wiki.cs.hse.ru/Introduction_to_Programming_2_DSBA_2022/2023)
+
+[Grades](https://docs.google.com/spreadsheets/d/1yH-N8d0cW3WmP7lY5Ibcw3Yq7G2RG9bQuNZtUUpWevw/edit#gid=1831411846)  
+[Lectures + Quizes](https://edu.hse.ru/course/view.php?id=135428) 
+
 ## Discrete Math [Wiki](http://wiki.cs.hse.ru/Discrete_Mathematics_DSBA_2022/2023)
 
 [Grades](https://docs.google.com/spreadsheets/d/1KoXyABY4alQu-Gw3HsYy3Vco9rfvHdYQZuUjE_ERJB8/edit?usp=sharing)  
@@ -29,21 +38,4 @@ Repository with all materials in one place
 [Homework files](http://wiki.cs.hse.ru/Discrete_Mathematics_DSBA_2022/2023#Homework_problems)  
 [Adaptation Course](http://wiki.cs.hse.ru/Adaptation_course_in_Discrete_Math_(факультатив)#Course_materials)  
 [Classroom](https://classroom.google.com/u/0/c/NTQ2ODg4MTgxNzA1)
-
-
-## Programming [Wiki](http://wiki.cs.hse.ru/Introduction_to_Programming_2_DSBA_2022/2023)
-
-[Grades](https://docs.google.com/spreadsheets/d/1yH-N8d0cW3WmP7lY5Ibcw3Yq7G2RG9bQuNZtUUpWevw/edit#gid=1831411846)  
-[Lectures + Quizes](https://edu.hse.ru/course/view.php?id=135428)  
-
-
-## English [Wiki](http://wiki.cs.hse.ru/English_DSBA_2022/2023)
-
-[Vocabulary](https://quizlet.com/ru/724575053/all-course-vocabulary-flash-cards/?i=3mlb6i&x=1jqY)  
-[Grades](https://docs.google.com/spreadsheets/d/1xVR9ppUaMrrFFBpD9m9kvEzEwypOwP9BrD4Vb4C2GJg/edit#gid=41479481)  
-[Homework + Classwork](https://drive.google.com/drive/folders/13Ra8tJ51Ml1sKOYpZRB2qPvbvo2uhjBA?usp=share_link)
-
-
-## Law [Wiki](http://wiki.cs.hse.ru/Foundations_of_Law_DSBA_2022/2023)
-
-Homework ([Part 1](https://www.edx.org/course/intellectual-property-law-and-policy-part-1?index=product&queryID=f6b61b63f322fd18951185537e59d609&position=4) [Part 2](https://www.edx.org/course/intellectual-property-law-and-policy-part-2?index=product&queryID=6cfb29fbb1a5a340f7b9fee45b23ccc9&position=1))
+ 
