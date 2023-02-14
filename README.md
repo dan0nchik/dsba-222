@@ -12,7 +12,7 @@ Repository with all materials in one place
 ## Calculus [Wiki](http://wiki.cs.hse.ru/Calculus_DSBA_2022/2023)
 
 [Grades](https://docs.google.com/spreadsheets/d/1k27B1fRbOSvvqlBSKxd-thWrluEhAPA9X5XDdz8fSxg/edit#gid=0=sharing)  
-[Lectures](https://drive.google.com/drive/folders/1NwQozuvNiUVM2y486AYIJ_M5DCzCxlZ7) ([2021-22 with proofs](https://drive.google.com/drive/folders/1N3JQfL1krgm5bwD_aVQuQzyrOIkxiexj?sort=13&direction=a))  
+[Lectures](https://drive.google.com/drive/folders/1NwQozuvNiUVM2y486AYIJ_M5DCzCxlZ7) ([2021-22 with proofs](https://drive.google.com/drive/folders/1StuyeiLmyRYUQnVfBSs9umbMU5wVoJB3?sort=13&direction=a))  
 [Seminars](https://drive.google.com/drive/folders/1UlVuTvheGtdxDtp5YbVEM8HiLW6R0OdX)  
 [Homework files + classroom](https://classroom.google.com/c/NTQ1Njc0MTA0MTQ2?cjc=yjbvgai)  
 [Recordings](https://disk.yandex.ru/d/INIfeiyO1Y-3og)
