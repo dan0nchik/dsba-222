@@ -27,6 +27,8 @@ Repository with all materials in one place
 [Classroom](https://classroom.google.com/u/0/c/NTI3NjI1NTM2MzE4)  
 [Recordings](https://disk.yandex.ru/d/gc-_nasS-wYcJw)
 
+## Algebra [Wiki](http://wiki.cs.hse.ru/DSBA_Algebra_2022_2023)
+
 
 ## Programming [Wiki](http://wiki.cs.hse.ru/Introduction_to_Programming_2_DSBA_2022/2023)
 
