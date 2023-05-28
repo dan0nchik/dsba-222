@@ -8,7 +8,7 @@ Repository with all materials in one place
 
 [Vocabulary](https://quizlet.com/ru/724575053/all-course-vocabulary-flash-cards/?i=3mlb6i&x=1jqY)  
 [Grades](https://docs.google.com/spreadsheets/d/1xVR9ppUaMrrFFBpD9m9kvEzEwypOwP9BrD4Vb4C2GJg/edit#gid=41479481)  
-[Homework + Classwork](https://drive.google.com/drive/folders/13Ra8tJ51Ml1sKOYpZRB2qPvbvo2uhjBA?usp=share_link)
+[Homework + Classwork](https://drive.google.com/drive/folders/19lOTYFGdPrqiEtFLVrrmZLd8VHRC0Ewl)
 
 ## Calculus [Wiki](http://wiki.cs.hse.ru/Calculus_DSBA_2022/2023)
 
