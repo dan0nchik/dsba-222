@@ -21,7 +21,8 @@ Repository with all materials in one place
 
 ## Linear Algebra [Wiki](http://wiki.cs.hse.ru/LAaG_DSBA_2022/2023)
 
-[Grades](https://docs.google.com/spreadsheets/d/1gSx67C3U62-n6IgoVs6s0JX7SMhD7rrupxEPcL2bKzo/edit)  
+[Grades Winter](https://docs.google.com/spreadsheets/d/1gSx67C3U62-n6IgoVs6s0JX7SMhD7rrupxEPcL2bKzo/edit)  
+[Grades Spring](https://docs.google.com/spreadsheets/d/1TYfx4zqidIVZrrbe23abnl6NP4tM0Y6LaEvmBOmC1MU/edit#gid=1709806732)  
 [Lectures](http://wiki.cs.hse.ru/LAaG_DSBA_2022/2023#Lecture_Notes)  
 [Homework files](http://wiki.cs.hse.ru/LAaG_DSBA_2022/2023#The_obligatory_homework_for_group_222:)  
 [Classroom](https://classroom.google.com/u/0/c/NTI3NjI1NTM2MzE4)  
