@@ -9,7 +9,7 @@ Repository with all materials in one place
 
 ## Calculus II [Wiki](http://wiki.cs.hse.ru/Calculus-2_2023/24)
 
-[Grades](https://docs.google.com/spreadsheets/d/1TYfx4zqidIVZrrbe23abnl6NP4tM0Y6LaEvmBOmC1MU/edit)  
+[Grades](https://docs.google.com/spreadsheets/d/1e8MJhZrRCoF2CkCCzki_JBJpuWZkwGKVHFArVBhudT0/edit?usp=sharing)  
 [Lectures](http://wiki.cs.hse.ru/Calculus-2_2023/24#Lecture_Notes)  
 [Lectures 2022 (slides)](https://drive.google.com/drive/folders/1c4dpfSOznczM_meshW1rEB4P8vplzJnW)  
 
@@ -28,3 +28,4 @@ Repository with all materials in one place
 ## Business
 
 [SmartLMS](https://edu.hse.ru/course/view.php?id=167283)  
+[Grades](https://docs.google.com/spreadsheets/d/1bLX437VCNwq4kM31CAAPJT8fhJ1LmP4QEht4wZb2e1g/edit?usp=sharing)
