@@ -27,5 +27,6 @@ Repository with all materials in one place
 
 ## Business
 
+[Y.Disk Materials](https://disk.yandex.ru/d/Mgyue8cQRWDBlg)  
 [SmartLMS](https://edu.hse.ru/course/view.php?id=167283)  
 [Grades](https://docs.google.com/spreadsheets/d/1bLX437VCNwq4kM31CAAPJT8fhJ1LmP4QEht4wZb2e1g/edit?usp=sharing)
