@@ -14,6 +14,7 @@ Repository with all materials in one place
 
 ## Discrete Math II [Wiki](http://wiki.cs.hse.ru/Discrete_Mathematics_2_DSBA_2023/24)  
 
+[Grades](https://docs.google.com/spreadsheets/d/1ureS1Bm47sETlar8AyFWi26-v9MmsOOoO9N3dqKYAMI/edit#gid=1310085148)  
 [Smart LMS](https://edu.hse.ru/course/view.php?id=167270)  
 
 ## Algorithms [Wiki](http://wiki.cs.hse.ru/Algorithms_and_Data_Structures_DSBA_2023/24)
