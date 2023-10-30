@@ -5,6 +5,7 @@ Repository with all materials in one place
 
 ## Statistics [Wiki](http://wiki.cs.hse.ru/Probability_and_Statistics_(DSBA)_2023/24)  
 
+[Grades](https://docs.google.com/spreadsheets/d/10kpnQq2oXg-0iMR7s4KBvbWCcoJhZqg-FFTkE9IV0eU/edit#gid=0)  
 [Telegram Lectures & HW](https://t.me/stathard2023)  
 
 ## Calculus II [Wiki](http://wiki.cs.hse.ru/Calculus-2_2023/24)
