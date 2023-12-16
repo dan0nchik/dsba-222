@@ -26,6 +26,7 @@ Repository with all materials in one place
 ## Economics [Wiki](http://wiki.cs.hse.ru/index.php?title=Introduction_to_Micro_and_Macroeconomics_DSBA_2022/2023&action=edit&redlink=1)
 
 [SmartLMS](https://edu.hse.ru/course/view.php?id=167280)  
+[Grades](https://docs.google.com/spreadsheets/d/e/2PACX-1vTySucsctPW0NM3CQDrBbSp6hhuiEia1nmwqe1HZ5NV3BLXGWJejv6pwDwTbCV9VJMQ3Zq5mgk8pOoR/pubhtml?gid=296458433&amp;single=true)  
 
 ## Business
 
