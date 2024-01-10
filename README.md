@@ -3,20 +3,11 @@
 [⏰ TIMETABLE](https://docs.google.com/spreadsheets/d/1ylzvoNdYh5TKr248rEWiGCvcLcuvDnDBQjep4i1x9cU/edit#gid=315038514)  
 Repository with all materials in one place  
 
-## Statistics [Wiki](http://wiki.cs.hse.ru/Probability_and_Statistics_(DSBA)_2023/24)  
+## ACOS [Wiki]()
 
-[Grades](https://docs.google.com/spreadsheets/d/10kpnQq2oXg-0iMR7s4KBvbWCcoJhZqg-FFTkE9IV0eU/edit#gid=0)  
-[Telegram Lectures & HW](https://t.me/stathard2023)  
+[Website](https://andrewt0301.github.io/hse-acos-course/)  
 
-## Calculus II [Wiki](http://wiki.cs.hse.ru/Calculus-2_2023/24)
-
-[Grades](https://docs.google.com/spreadsheets/d/1e8MJhZrRCoF2CkCCzki_JBJpuWZkwGKVHFArVBhudT0/edit?usp=sharing)  
-[Lectures 2022 (slides)](https://drive.google.com/drive/folders/1c4dpfSOznczM_meshW1rEB4P8vplzJnW)  
-
-## Discrete Math II [Wiki](http://wiki.cs.hse.ru/Discrete_Mathematics_2_DSBA_2023/24)  
-
-[Grades](https://docs.google.com/spreadsheets/d/1ureS1Bm47sETlar8AyFWi26-v9MmsOOoO9N3dqKYAMI/edit#gid=1310085148)  
-[Smart LMS](https://edu.hse.ru/course/view.php?id=167270)  
+## Differential equations [Wiki]()   
 
 ## Algorithms [Wiki](http://wiki.cs.hse.ru/Algorithms_and_Data_Structures_DSBA_2023/24)
 
@@ -33,3 +24,8 @@ Repository with all materials in one place
 [Y.Disk Materials](https://disk.yandex.ru/d/Mgyue8cQRWDBlg)  
 [SmartLMS](https://edu.hse.ru/course/view.php?id=167283)  
 [Grades](https://docs.google.com/spreadsheets/d/1bLX437VCNwq4kM31CAAPJT8fhJ1LmP4QEht4wZb2e1g/edit?usp=sharing)
+
+## Statistics [Wiki](http://wiki.cs.hse.ru/Probability_and_Statistics_(DSBA)_2023/24)  
+
+[Grades](https://docs.google.com/spreadsheets/d/10kpnQq2oXg-0iMR7s4KBvbWCcoJhZqg-FFTkE9IV0eU/edit#gid=0)  
+[Telegram Lectures & HW](https://t.me/stathard2023)  
