@@ -7,7 +7,7 @@ Repository with all materials in one place
 
 [Website](https://andrewt0301.github.io/hse-acos-course/)  
 
-## Differential equations [Wiki]()   
+## Differential equations [Wiki](http://wiki.cs.hse.ru/Differential_Equations_2023/24)   
 
 ## Algorithms [Wiki](http://wiki.cs.hse.ru/Algorithms_and_Data_Structures_DSBA_2023/24)
 
