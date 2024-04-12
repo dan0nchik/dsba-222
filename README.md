@@ -3,7 +3,7 @@
 [⏰ TIMETABLE](https://docs.google.com/spreadsheets/d/1ylzvoNdYh5TKr248rEWiGCvcLcuvDnDBQjep4i1x9cU/edit#gid=315038514)  
 Repository with all materials in one place  
 
-## ACOS [Wiki]()
+## ACOS [Wiki](http://wiki.cs.hse.ru/ACOS_DSBA_2023/24)
 
 [Website](https://andrewt0301.github.io/hse-acos-course/)  
 
