@@ -1,5 +1,5 @@
 # DSBA 222
-[🚑 Medical form (?)]()  
+[🚑 Study spravka](https://www.hse.ru/studyspravka/medcert/)  
 [⏰ TIMETABLE 24/25](https://docs.google.com/spreadsheets/d/1ZPyUHhEDeh3hEREMm5ilItRjZCzNJo8Tk538XP55oLk/edit?gid=1890121023#gid=1890121023)  
 Repository with all materials in one place  
 
